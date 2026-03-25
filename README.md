@@ -87,5 +87,5 @@ Any changes will be reflected on this page with an updated effective date.
 
 If you have any questions about this Privacy Policy, you may contact:
 
-**Developer:** Health Event Counter  
+**Developer:** Lucky Health Apps  
 **Email:** luckyhealthapps@gmail.com
