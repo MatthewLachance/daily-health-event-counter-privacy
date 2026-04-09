@@ -1,3 +1,13 @@
-header {
-    display: none;
+/* Hide GitHub Pages header/title block */
+.site-header {
+    display: none !important;
+}
+
+/* Fallbacks for some themes */
+.page-header {
+    display: none !important;
+}
+
+header.page-header {
+    display: none !important;
 }
