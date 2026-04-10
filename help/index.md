@@ -82,7 +82,16 @@ Share with the Google Drive app to save history in your private Google account o
 
 Alternatively, you may wish to share to an email app (e.g. Gmail) and send the CSV file as an attachment.
 
-Watch this video to see how to effectively backup your history by exporting to email. ***** TODO link to Youtube *****
+Steps to Export historical data to Google Drive:
+- Tap the **Export** button
+- Select the Google Drive app
+- Tap **Upload** to save CSV data file to the Google server
+
+Steps to Export historical data to Gmail:
+- Tap the **Export** button
+- Select the Gmail app and notice email subject and attachment CSV file
+- Enter a "To" value and touch Send to forward the data to a target email address (e.g. yourself)
+
 
 *Advanced Usage:*
 
