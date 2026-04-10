@@ -1,7 +1,7 @@
 # Help – Daily Health Event Counter App for Android
 
 ## Quick Start
-- Tap **<span style="font-size: 24px;">+</span>** to record a health event
+- Tap **<span style="font-size: 18px;">+</span>** to record a health event
 - Use the **Today** (date picker) button to view or edit past days
 - Tap **History** to see trends
 - Each day at midnight, the event count clears after saving previous day
@@ -35,8 +35,8 @@ All data is saved locally on your phone.
 
 ## How to Adjust Daily Counter
 
-- Tap **<span style="font-size: 24px;">+</span>** to add one to the counter
-- Tap **<span style="font-size: 24px;">-</span>** to reduce the counter by one
+- Tap **<span style="font-size: 18px;">+</span>** to add one to the counter
+- Tap **<span style="font-size: 18px;">-</span>** to reduce the counter by one
 - Use **Reset** to set the counter back to zero (you’ll be asked to confirm)
 - Use **Clear data** to remove all entries for this day (you’ll be asked to confirm)
 
