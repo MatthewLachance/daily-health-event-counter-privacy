@@ -74,7 +74,7 @@ Use Export to backup your historical data. For privacy reasons, data is not stor
 
 Why back up? In the situation where you change phones or you accidently clear the app data via Android settings, the history will be lost. 
 
-To safeguard against this, periodically using Export for backup.
+To safeguard against this, periodically use Export for backup.
 
 Tapping **Export** will prompt to share a CSV (comma separated values) file with other apps on your phone. 
 
@@ -90,7 +90,7 @@ Steps to Export historical data to Google Drive:
 Steps to Export historical data to Gmail:
 - Tap the **Export** button
 - Select the Gmail app and notice a draft email with appropriate subject and attached CSV file
-- Enter a **To** value and touch Send to forward the data to a target email address (e.g. yourself)
+- Enter a **To** value and touch **Send** to forward the information to an email address
 
 
 *Advanced Usage:*
@@ -124,6 +124,6 @@ The format of the file expected by Import is the same as described above for Exp
 
 **What's the difference between resetting the counter for the day and clearing the counter for the day?**
 
-In the case of a reset, the counter goes to zero. Zero health events for the day may be meaningful. In the case of clear, there is no data recorded for that day (until you tap the **+**). For history (trending) it may be important to distinguish between days you have had zero events verus days that you decided not to record anything.
+A reset adjusts the counter to zero. A clearing of data removes data recorded for that day. For history (trends) it may be important to distinguish between days that have zero events and days where no events were  recorded.
 
 
