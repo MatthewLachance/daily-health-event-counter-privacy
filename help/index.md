@@ -73,6 +73,8 @@ The following features may require an upgrade to the Pro tier.
 - Edit past days
 - Export data (to CSV format)
 - Import data
+
+To upgrade, tap the "i" (information) button in the app.
 </details>
 
 <details>
