@@ -12,23 +12,27 @@
 Ideal for monitoring symptoms, habits, or medical tracking between appointments.
   
 Key Features:
-- One-tap event tracking throughout the day
-- Automatic daily reset with history preserved
-- View trends over time with built-in history line graph
-- Review and edit past days easily
-- Big buttons for easy over night use
-- Export data for backup or to paste into spreadsheet
-- Import CSV file to load the app with historical data
-- Export then Import when changing phones
-- Works offline — no account required
-- No data sharing — your information stays on your device
-- App languages: English, français
+<ul>
+  <li>One-tap event tracking throughout the day</li>
+  <li>Automatic daily reset with history preserved</li>
+  <li>View trends over time with built-in history line graph</li>
+  <li>Review and edit past days easily</li>
+  <li>Big buttons for easy over night use</li>
+  <li>Export data for backup or to paste into spreadsheet</li>
+  <li>Import CSV file to load the app with historical data</li>
+  <li>Export then Import when changing phones</li>
+  <li>Works offline — no account required</li>
+  <li>No data sharing — your information stays on your device</li>
+  <li>App languages: English, français</li>
+</ul>
 
 Use Cases
-- Track daily symptoms (bathroom visits, pain, headache frequency, etc.)
-- Monitor habits or recovery progress
-- Provide accurate data to healthcare providers
-- Or just count things (with daily history)
+<ul>
+  <li>Track daily symptoms (bathroom visits, pain, headache frequency, etc.)</li>
+  <li>Monitor habits or recovery progress</li>
+  <li>Provide accurate data to healthcare providers</li>
+  <li>Or just count things (with daily history)</li>
+</ul>
 
 This app is ideal for personal tracking and for sharing accurate data with healthcare professionals when needed.
 
