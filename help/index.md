@@ -113,7 +113,7 @@ Steps to Export historical data to Gmail:
 
 *Advanced Usage:*
 
-The exported CSV file can also be used to load into a spreadsheet program such as Google Sheets or Microsoft Excel. This will allow you to integrate with other data and/or build more complex charts and graphs.
+The exported CSV file can also be used to load into a spreadsheet program such as Google Sheets or Microsoft Excel. This will allow you to integrate with other data or build more complex charts and graphs.
 
 The format of the contents of the CSV text file is simple:
 
