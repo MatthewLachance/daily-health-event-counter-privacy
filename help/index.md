@@ -8,6 +8,7 @@
 <li>Tap <strong>History</strong> to see trends</li>
 <li>Each day at midnight, the event count is saved then cleared to start a new day</li>
 </ul>
+</details>
   
 <details>
   <summary><strong>About this App</strong></summary>
