@@ -1,5 +1,5 @@
 # Help – Daily Health Event Counter App for Android
-
+*<small><a href="https://matthewlachance.github.io/daily-health-event-counter/aide/">Français</a></small>*
 <details open>
   <summary><strong>Quick Start</strong></summary>
 <ul>
