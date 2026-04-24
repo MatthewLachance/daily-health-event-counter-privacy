@@ -8,7 +8,7 @@
 
 <details>
   <summary><strong>About this App</strong></summary>
-<br>  
+<br> 
 <p>
 Ideal for monitoring symptoms, habits, or medical tracking between appointments.
 </p>
@@ -53,7 +53,7 @@ All data is saved locally on your phone.
   <li>Use <strong>Clear data</strong> to remove all entries for this day (you’ll be asked to confirm)</li>
 </ul>
 
-*Note:*
+<strong>Note:</strong>
 
 <ul>
   <li>The counter automatically clears when a new day starts (midnight)</li>
@@ -70,7 +70,7 @@ All data is saved locally on your phone.
   <li>The graph shows the total event values (y-axis) on a daily basis (x-axis)</li>
 </ul>
 
-*Note:*
+<strong>Note:</strong>
 
 <ul>
   <li>The history graph may be best viewed in landscape mode (rotate your phone)</li>
@@ -111,15 +111,15 @@ To upgrade, tap the "i" (information) button in the app.
 <br>
 Use Export to backup your historical data. For privacy reasons, data is not stored on servers. 
 
-Why back up? In the situation where you change phones or you accidently clear the app data via Android settings, the history will be lost. 
+<p>Why back up? In the situation where you change phones or you accidently clear the app data via Android settings, the history will be lost.</p>
 
-To safeguard against this, periodically use Export for backup.
+<p>To safeguard against this, periodically use Export for backup.</p>
 
-Tapping **Export** will prompt to share a CSV (comma separated values) file with other apps on your phone. 
+<p>Tapping <strong>Export</strong> will prompt to share a CSV (comma separated values) file with other apps on your phone.</p>
 
-Share with the Google Drive app to save history in your private Google account on Google servers.
+<p>Share with the Google Drive app to save history in your private Google account on Google servers.</p>
 
-Alternatively, you may wish to share to an email app (e.g. Gmail) and send the CSV file as an attachment.
+<p>Alternatively, you may wish to share to an email app (e.g. Gmail) and send the CSV file as an attachment.</p>
 
 <p>Steps to Export historical data to Google Drive:</p>
 <ul>
@@ -135,43 +135,42 @@ Alternatively, you may wish to share to an email app (e.g. Gmail) and send the C
   <li>Enter a <strong>To</strong> value and touch <strong>Send</strong> to forward the information to an email address</li>
 </ul>
 
+<strong>Advanced Usage:</strong>
 
-*Advanced Usage:*
+<p>The exported CSV file can also be used to load into a spreadsheet program such as Google Sheets or Microsoft Excel. This will allow you to integrate with other data or build more complex charts and graphs.</p>
 
-The exported CSV file can also be used to load into a spreadsheet program such as Google Sheets or Microsoft Excel. This will allow you to integrate with other data or build more complex charts and graphs.
-
-The format of the contents of the CSV text file is simple:
+<p>The format of the contents of the CSV text file is simple:</p>
 
 date,count<br>
 YYYY-MM-DD,nn<br>
 YYYY-MM-DD,nn<br>
 ...
 
-The first line of the CSV file are headers "date,count" and each line afterwards will represent the event count for a given date.
+<p>The first line of the CSV file are headers "date,count" and each line afterwards will represent the event count for a given date.</p>
 
-For example, a CSV file with entries like this ...
+<p>For example, a CSV file with entries like this ...</p>
 
 date,count<br>
 2026-01-01,5<br>
 2026-01-03,17<br>
 
-... will import two dates (January 1, 2026 and January 3, 2026) of historical data into the app.
+<p>... will import two dates (January 1, 2026 and January 3, 2026) of historical data into the app.</p>
 </details>
 
 <details>
   <summary><strong>How to Import</strong></summary>
 <br>
-Use Import to recover previously backed up event counts or to load historical daily event counts from another source. 
+<p>Use Import to recover previously backed up event counts or to load historical daily event counts from another source.<p> 
 
-The format of the file expected by Import is the same as described above for Export. Be sure to include the header line exactly as above and dates that are in the past (not future).
+<p>The format of the file expected by Import is the same as described above for Export. Be sure to include the header line exactly as above and dates that are in the past (not future).</p>
 </details>
 
 <details>
   <summary><strong>FAQ</strong></summary>
 <br>
 
-**What's the difference between resetting the counter for the day and clearing the counter for the day?**
+<strong>What's the difference between resetting the counter for the day and clearing the counter for the day?<strong>
 
-A reset adjusts the counter to zero. A clearing of data removes data recorded for that day. For history (trends) it may be important to distinguish between days that have zero events and days where no events were  recorded.
+<p>A reset adjusts the counter to zero. A clearing of data removes data recorded for that day. For history (trends) it may be important to distinguish between days that have zero events and days where no events were recorded.</p>
 </details>
 
