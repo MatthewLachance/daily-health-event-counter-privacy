@@ -104,7 +104,7 @@ To upgrade, tap the "i" (information) button in the app.
 
 <ul>
   <li>Tap the <strong>Today</strong> button and pick a past day to view</li>
-  <li>To edit a past day, first view it as above then tap the <strong>pencil</strong> icon</li>
+  <li>To edit a past day, first view it then tap the <strong>pencil</strong> icon</li>
 </ul>
 </details>
 
