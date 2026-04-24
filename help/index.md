@@ -136,7 +136,7 @@ date,count<br>
 <details>
   <summary><strong>How to Import</strong></summary>
 <br>
-<p>Tap <strong>Import</strong> to recover previously backed up history or to load history from another source.</p> 
+Tap <strong>Import</strong> to recover previously backed up history or to load history from another source. 
 
 <p>The format of the file of type .csv that is expected by the import operation is the same as described above for the export feature. Be sure to include the header line exactly as shown with dates that are in the past (not future).</p>
 
