@@ -1,6 +1,8 @@
 # Privacy Policy
 
-**Effective Date:** March 20, 2026
+Effective Date: March 20, 2026
+<br>
+Français&nbsp;: La politique de confidentialité est disponible <a href="https://matthewlachance.github.io/daily-health-event-counter/confidentialite/">ici</a>
 
 ## Introduction
 
