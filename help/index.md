@@ -107,37 +107,33 @@ To upgrade, tap the "i" (information) button in the app.
 <details>
   <summary><strong>How to Export</strong></summary>
 <br>
-Use Export to backup your historical data. For privacy reasons, data is not stored on servers. 
+Use Export to backup your history. For privacy reasons, data is not stored on servers. 
 
-<p>Why back up? In the situation where you change phones or you accidently clear the app data via Android settings, the history will be lost.</p>
+<p>Why back up? When you change phones or you accidently clear the app data, history will be lost.</p>
 
 <p>To safeguard against this, periodically use Export for backup.</p>
 
 <p>Tapping <strong>Export</strong> will prompt to share a CSV (comma separated values) file with other apps on your phone.</p>
 
-<p>Share with the Google Drive app to save history in your private Google account on Google servers.</p>
-
-<p>Alternatively, you may wish to share to an email app (e.g. Gmail) and send the CSV file as an attachment.</p>
-
-<p>Steps to Export historical data to Google Drive:</p>
+<p>Steps to export and save history to your Google account</p>
 <ul>
   <li>Tap the <strong>Export</strong> button</li>
-  <li>Select the Google Drive app</li>
-  <li>Tap <strong>Upload</strong> to save CSV data file to the Google Drive server</li>
+  <li>Select the <strong>Google Drive</strong> app</li>
+  <li>Tap <strong>Upload</strong> to save the CSV data file on Google servers</li>
 </ul>
 
-<p>Steps to Export historical data to Gmail:</p>
+<p>Steps to export and save history via email:</p>
 <ul>
   <li>Tap the <strong>Export</strong> button</li>
-  <li>Select the Gmail app and notice a draft email with appropriate subject and attached CSV file</li>
+  <li>Select an email app such as <strong>Gmail</strong>. This will create a draft email with appropriate subject and attached CSV file</li>
   <li>Enter a <strong>To</strong> value and touch <strong>Send</strong> to forward the information to an email address</li>
 </ul>
 
 <strong>Advanced Usage:</strong>
 
-<p>The exported CSV file can also be used to load into a spreadsheet program such as Google Sheets or Microsoft Excel. This will allow you to integrate with other data or build more complex charts and graphs.</p>
+<p>The exported CSV file can also be used to load into a spreadsheet application such as <strong>Google Sheets</strong> or <strong>Microsoft Excel</strong>. This will allow you to integrate with other data or build more complex charts and graphs.</p>
 
-<p>The format of the contents of the CSV text file is like this:</p>
+<p>The format of the CSV text file is:</p>
 
 date,count<br>
 2026-01-01,5<br>
