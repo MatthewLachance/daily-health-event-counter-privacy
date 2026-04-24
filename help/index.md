@@ -2,7 +2,6 @@
 
 <details open>
   <summary><strong>Quick Start</strong></summary>
-<br>
 <ul>
 <li>Tap <strong>+</strong> to record a health event</li>
 <li>Use the <strong>Today</strong> button to view or edit past days</li>
@@ -63,7 +62,6 @@ All data is saved locally on your phone.
 
 <details>
   <summary><strong>How to View History</strong></summary>
-<br>
 <ul>
   <li>Tap the <strong>History</strong> button to view a trend of events over time</li>
   <li>The graph shows the total event values (y-axis) on a daily basis (x-axis)</li>
