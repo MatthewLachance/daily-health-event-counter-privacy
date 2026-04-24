@@ -13,11 +13,9 @@
 <details>
   <summary><strong>About this App</strong></summary>
 <br> 
-<p>
 Ideal for monitoring symptoms, habits, or medical tracking between appointments.
-</p>
 
-Key Features:
+<p>Key Features:</p>
 <ul>
   <li>One-tap event tracking throughout the day</li>
   <li>Automatic daily reset with history preserved</li>
