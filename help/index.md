@@ -3,12 +3,11 @@
 <details open>
   <summary><strong>Quick Start</strong></summary>
 <br>
-  
 <ul>
 <li>Tap <strong>+</strong> to record a health event</li>
 <li>Use the <strong>Today</strong> button to view or edit past days</li>
 <li>Tap <strong>History</strong> to see trends</li>
-<li>Each day at midnight, the event count clears after saving previous day</li>
+<li>Each day at midnight, the event count is saved then cleared to start a new day</li>
 </ul>
   
 <details>
