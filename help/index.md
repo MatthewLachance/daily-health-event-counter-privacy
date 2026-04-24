@@ -22,8 +22,8 @@ Ideal for monitoring symptoms, habits, or medical tracking between appointments.
   <li>View trends over time with built-in history line graph</li>
   <li>Review and edit past days easily</li>
   <li>Big buttons for easy over night use</li>
-  <li>Export data for backup or to paste into spreadsheet</li>
-  <li>Import CSV file to load the app with historical data</li>
+  <li>Export history for backup or to paste into spreadsheet</li>
+  <li>Import CSV file to load the app with history</li>
   <li>Export then Import when changing phones</li>
   <li>Works offline — no account required</li>
   <li>No data sharing — your information stays on your device</li>
@@ -80,8 +80,8 @@ The following features may require an upgrade to the Pro tier.
 
 <ul>
   <li>Edit past days</li>
-  <li>Export data (to CSV format)</li>
-  <li>Import data</li>
+  <li>Export history (to CSV format)</li>
+  <li>Import history from other sources</li>
 </ul>
 
 To upgrade, tap the "i" (information) button in the app.
