@@ -146,9 +146,11 @@ date,count<br>
 <details>
   <summary><strong>How to Import</strong></summary>
 <br>
-<p>Use Import to recover previously backed up event counts or to load historical daily event counts from another source.</p> 
+<p>Tap <strong>Import</strong> to recover previously backed up history or to load history from another source.</p> 
 
-<p>The format of the file expected by Import is the same as described above for Export. Be sure to include the header line exactly as above and dates that are in the past (not future).</p>
+<p>The format of the file expected by import operation is the same as described above for the export feature. Be sure to include the header line exactly as shown with dates that are in the past (not future).</p>
+
+<p>Be aware that importing history into the app replaces any existing data whose dates match.</p>
 
 </details>
 
