@@ -138,22 +138,14 @@ Use Export to backup your historical data. For privacy reasons, data is not stor
 
 <p>The exported CSV file can also be used to load into a spreadsheet program such as Google Sheets or Microsoft Excel. This will allow you to integrate with other data or build more complex charts and graphs.</p>
 
-<p>The format of the contents of the CSV text file is simple:</p>
-
-date,count<br>
-YYYY-MM-DD,nn<br>
-YYYY-MM-DD,nn<br>
-...
-
-<p>The first line of the CSV file are headers "date,count" and each line afterwards will represent the event count for a given date.</p>
-
-<p>For example, a CSV file with entries like this ...</p>
+<p>The format of the contents of the CSV text file is like this:</p>
 
 date,count<br>
 2026-01-01,5<br>
 2026-01-03,17<br>
+...
 
-<p>... will import two dates (January 1, 2026 and January 3, 2026) of historical data into the app.</p>
+<p>where the number after the date is the total number of events for that day.</p>
 </details>
 
 <details>
@@ -169,7 +161,7 @@ date,count<br>
   <summary><strong>FAQ</strong></summary>
 <br>
 
-<strong>What's the difference between resetting the counter for the day and clearing the counter for the day?<strong>
+<strong>What's the difference between resetting the counter for the day and clearing the counter for the day?</strong>
 
 <p>A reset adjusts the counter to zero. A clearing of data removes data recorded for that day. For history (trends) it may be important to distinguish between days that have zero events and days where no events were recorded.</p>
 
