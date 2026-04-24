@@ -65,11 +65,6 @@ All data is saved locally on your phone.
 <ul>
   <li>Tap the <strong>History</strong> button to view a trend of events over time</li>
   <li>The graph shows the total event values (y-axis) on a daily basis (x-axis)</li>
-</ul>
-
-<strong>Note:</strong>
-
-<ul>
   <li>The history graph may be best viewed in landscape mode (rotate your phone)</li>
   <li>A minimum of two recorded days is required before a graph is rendered</li>
 </ul>
@@ -93,7 +88,6 @@ To upgrade, tap the "i" (information) button in the app.
 
 <details>
   <summary><strong>How to View or Edit Past Days</strong></summary>
-<br>
 <ul>
   <li>Tap the <strong>Today</strong> button and pick a past day to view</li>
   <li>To edit a past day, first view it then tap the <strong>pencil</strong> icon</li>
