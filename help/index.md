@@ -159,7 +159,7 @@ Tap <strong>Import</strong> to recover previously backed up history or to load h
 
 <strong>How do I clear all history?</strong>
 
-<p>Clear the history (the current day and all past days) by selecting 'clear data' in the storage section of the App info section in Android settings</p>
+<p>Clear the history (the current day and all past days) by selecting clearing data for the app in Android settings</p>
 
 </details>
 
