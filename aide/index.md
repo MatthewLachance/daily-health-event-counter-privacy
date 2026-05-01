@@ -156,4 +156,9 @@ Appuyez sur <strong>Importer</strong> pour restaurer un historique précédemmen
 <strong>Existe-t-il une politique de confidentialité pour cette application&nbsp;?</strong>
 
 <p>Oui, vous pouvez consulter la politique de confidentialité <a href="https://matthewlachance.github.io/daily-health-event-counter/confidentialite/">ici</a></p>
+
+<strong>Comment effacer tout l’historique ?</strong>
+
+<p>Effacez l’historique (le jour actuel et tous les jours précédents) en supprimant les données de l’application dans les paramètres Android</p>
+
 </details>
